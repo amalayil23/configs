@@ -1,0 +1,2 @@
+hostname S1
+no ip domain lookup
